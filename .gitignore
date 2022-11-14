@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+# Model Selection
+Models.ipynb
+
 
 # C extensions
 *.so
